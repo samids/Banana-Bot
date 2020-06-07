@@ -1,0 +1,22 @@
+{
+  "name": "package.js",
+  "version": "1.0.0",
+  "description": "\"# BANANANANNAA\"",
+  "main": "app.js",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "prequest": "^1.0.0",
+    "replace": "^1.0.0",
+    "vk-io": "^4.0.0-rc.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/bananabotes.git"
+  },
+  "author": "Samids",
+  "license": "ISC"
+}
