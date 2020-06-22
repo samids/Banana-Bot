@@ -3,4 +3,6 @@
 Вместо "Ваш_Токен" токен группы, а вместо "182717712" айди вашей группы.
 Прямая ссылка на бота https://github.com/samids/BANANABOT2.5/releases/download/Bananabot2.5/BananaBot2.5.rar
 
+Группа бота - https://vk.com/bot_banana
+
 Отдельная блоогодарность - https://vk.com/topslivbots
