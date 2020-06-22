@@ -5,4 +5,5 @@
 
 Группа бота - https://vk.com/bot_banana
 
+CODE Старый
 Отдельная блоогодарность - https://vk.com/topslivbots
